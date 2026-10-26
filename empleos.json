@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "ciudad": "Nuevo Laredo, Tamaulipas",
+    "actualizado": "2026-10-26",
+    "fuente": "Google Jobs / LinkedIn / Indeed",
+    "total": 3
+  },
+  "empleos": [
+    {
+      "id": 1,
+      "titulo": "Empacador 1T / 3T",
+      "empresa": "Medline",
+      "salario": "",
+      "tipo": "Tiempo completo",
+      "modalidad": "presencial",
+      "ubicacion": "Blvd. World Trade Center #106, Parque Industrial Oradel, 88285",
+      "telefono": "867 711 2888 / 972 525 3424",
+      "descripcion": "",
+      "fuente": "LinkedIn / Indeed",
+      "nuevo": true,
+      "tags": ["almacen", "empacador", "operador"]
+    },
+    {
+      "id": 2,
+      "titulo": "Ejecutivo de Tráfico",
+      "empresa": "Ermilo E Richer Agencia Aduanal",
+      "salario": "$13,000 – $15,000 / mes",
+      "tipo": "Tiempo completo",
+      "modalidad": "presencial",
+      "ubicacion": "Nuevo Laredo, Tamps.",
+      "telefono": "",
+      "descripcion": "Agencia aduanal busca ejecutivo con experiencia en tráfico.",
+      "fuente": "Indeed",
+      "nuevo": true,
+      "tags": ["aduanal", "trafico", "ejecutivo"]
+    },
+    {
+      "id": 3,
+      "titulo": "Cajero/a de Tienda",
+      "empresa": "WALDO'S",
+      "salario": "$5,500 – $7,000 / mes",
+      "tipo": "Medio tiempo",
+      "modalidad": "presencial",
+      "ubicacion": "Av. Vicente Guerrero 2619 / Matamoros 666",
+      "telefono": "867 712 396 / 867 719 470",
+      "descripcion": "",
+      "fuente": "Glassdoor",
+      "nuevo": true,
+      "tags": ["cajero", "tienda", "retail"]
+    }
+  ]
+}
